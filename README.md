@@ -30,7 +30,7 @@ Final project, Mars Exploration Robot
 - Demo Video
 : The Robot is operated by the commands over Wifi by Putty with keyboard input or game controller.
 
-
+![demo](https://user-images.githubusercontent.com/39265784/53309580-4b284880-386e-11e9-913b-13ab12e80877.gif)
 
 - Object detecting
 : Detect object is executed by two sensors which are Infrared sensor and Ping sensor. Infrared sensor is used to detect the objects and Ping sensor is used to measure the distance between robot and object.
