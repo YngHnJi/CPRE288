@@ -41,3 +41,9 @@ Final project, Mars Exploration Robot
 : From the result having number of detected objects and distance, show the locations where objects are at by GUI function
 
 ![gui_function](https://user-images.githubusercontent.com/39265784/53309247-701bbc00-386c-11e9-8a9e-a696275d5d75.jpg)
+
+
+# Acquisition
+1. Know how to use or control sensors and components, such as IR, Ping, collision detection sensor and wifi sensor.
+2. Know how to combine all functions for some uses.
+3. Know how to interpret collected datas come from sensors and use it for the mission. 
