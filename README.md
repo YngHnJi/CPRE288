@@ -42,6 +42,8 @@ Final project, Mars Exploration Robot
 
 ![gui_function](https://user-images.githubusercontent.com/39265784/53309247-701bbc00-386c-11e9-8a9e-a696275d5d75.jpg)
 
+Final Project operating video
+https://www.youtube.com/watch?v=3EW-lEjpW7s&feature=youtu.be
 
 # Acquisition
 1. Know how to use or control sensors and components, such as IR, Ping, collision detection sensor and wifi sensor.
